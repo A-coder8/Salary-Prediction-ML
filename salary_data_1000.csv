@@ -1,0 +1,1001 @@
+id,age,experience_years,education,job_level,weekly_hours,city,salary
+1,23,0,High School,Mid,33,Tehran,29805.0
+2,41,21,High School,Junior,40,Isfahan,55593.0
+3,30,10,Master,Senior,58,Rasht,69646.0
+4,48,27,Master,Junior,34,Mashhad,73155.0
+5,21,0,Master,Mid,38,Qom,39038.0
+6,41,13,Master,Junior,49,Karaj,47042.0
+7,20,0,Master,Mid,43,Qom,31696.0
+8,52,32,Master,Mid,53,Tabriz,96059.0
+9,51,27,High School,Junior,42,Tabriz,63141.0
+10,41,21,High School,Junior,50,Karaj,52717.0
+11,20,0,PhD,Mid,46,Tehran,42729.0
+12,60,35,Bachelor,Lead,34,Qom,98571.0
+13,44,17,High School,Junior,36,Tehran,49922.0
+14,37,11,Bachelor,Junior,49,Tabriz,49589.0
+15,52,27,Master,Junior,58,Tehran,86832.0
+16,54,28,High School,Junior,60,Qom,67013.0
+17,22,0,Bachelor,Junior,50,Mashhad,33996.0
+18,29,4,Bachelor,Senior,56,Tehran,57474.0
+19,53,27,Bachelor,Junior,50,Shiraz,71970.0
+20,28,0,PhD,Mid,50,Mashhad,43091.0
+21,57,31,Bachelor,Senior,44,Tehran,94027.0
+22,48,24,Bachelor,Senior,35,Karaj,86619.0
+23,53,25,Bachelor,Junior,33,Karaj,65918.0
+24,25,1,PhD,Junior,58,Karaj,53225.0
+25,36,10,High School,Mid,60,Isfahan,43922.0
+26,21,0,Bachelor,Junior,49,Karaj,31806.0
+27,25,0,Bachelor,Junior,58,Mashhad,35263.0
+28,45,25,Bachelor,Senior,48,Qom,75806.0
+29,41,15,Master,Senior,59,Mashhad,74420.0
+30,58,31,Bachelor,Mid,52,Tehran,93397.0
+31,43,16,Bachelor,Mid,43,Karaj,53115.0
+32,41,18,Master,Junior,55,Tehran,73353.0
+33,46,20,Bachelor,Senior,35,Rasht,61492.0
+34,27,3,Bachelor,Mid,31,Rasht,43018.0
+35,23,0,Bachelor,Mid,54,Karaj,41525.0
+36,48,23,Bachelor,Mid,46,Shiraz,73371.0
+37,41,21,High School,Junior,51,Qom,53038.0
+38,22,0,PhD,Junior,57,Karaj,40551.0
+39,34,14,Bachelor,Senior,58,Shiraz,65844.0
+40,20,0,Master,Junior,58,Tabriz,29295.0
+41,36,12,High School,Mid,43,Tehran,47425.0
+42,30,7,High School,Mid,54,Isfahan,41464.0
+43,39,12,Master,Mid,39,Tabriz,58641.0
+44,55,31,Master,Mid,59,Tabriz,99855.0
+45,60,34,Bachelor,Senior,33,Tehran,97639.0
+46,47,19,Bachelor,Mid,36,Isfahan,56965.0
+47,35,15,Bachelor,Junior,42,Tehran,59710.0
+48,55,35,High School,Lead,53,Rasht,112302.0
+49,38,16,Bachelor,Junior,50,Karaj,54379.0
+50,43,21,Bachelor,Mid,46,Rasht,64813.0
+51,45,17,High School,Junior,58,Qom,52696.0
+52,50,29,High School,Mid,57,Karaj,80938.0
+53,55,35,Bachelor,Mid,41,Isfahan,93868.0
+54,52,31,Bachelor,Junior,32,Isfahan,78698.0
+55,44,22,Bachelor,Senior,34,Tehran,83592.0
+56,41,21,High School,Junior,43,Isfahan,59782.0
+57,45,25,High School,Junior,52,Tabriz,65017.0
+58,48,25,Master,Junior,43,Karaj,71575.0
+59,29,8,Master,Junior,51,Rasht,42417.0
+60,23,3,Bachelor,Junior,37,Shiraz,32227.0
+61,35,13,Bachelor,Junior,58,Shiraz,61805.0
+62,55,30,Bachelor,Junior,43,Tehran,74778.0
+63,58,34,Bachelor,Mid,30,Karaj,91692.0
+64,38,17,Bachelor,Junior,40,Qom,47076.0
+65,26,0,High School,Mid,32,Isfahan,30174.0
+66,50,26,Bachelor,Mid,47,Mashhad,79558.0
+67,44,24,Bachelor,Junior,59,Mashhad,70592.0
+68,26,4,PhD,Mid,38,Tabriz,44684.0
+69,24,0,High School,Junior,34,Shiraz,15191.0
+70,53,25,Master,Mid,33,Karaj,79334.0
+71,38,14,Bachelor,Junior,32,Tabriz,37757.0
+72,48,22,Master,Senior,41,Mashhad,70749.0
+73,28,2,High School,Junior,59,Tehran,39091.0
+74,25,3,Bachelor,Mid,54,Rasht,39633.0
+75,39,18,Master,Junior,48,Rasht,56564.0
+76,54,31,Master,Junior,47,Karaj,86945.0
+77,21,0,Bachelor,Senior,36,Rasht,40823.0
+78,24,2,High School,Junior,37,Tabriz,25526.0
+79,48,25,Bachelor,Senior,57,Rasht,82828.0
+80,24,1,High School,Junior,47,Shiraz,14675.0
+81,21,0,Master,Junior,50,Tabriz,36439.0
+82,46,19,Bachelor,Junior,35,Rasht,50512.0
+83,47,26,High School,Junior,51,Mashhad,66610.0
+84,39,14,Bachelor,Senior,39,Rasht,52912.0
+85,31,3,Bachelor,Mid,47,Tabriz,50928.0
+86,57,35,Bachelor,Mid,51,Tabriz,97892.0
+87,49,26,Bachelor,Senior,45,Tehran,83927.0
+88,49,24,Bachelor,Junior,47,Karaj,72286.0
+89,32,10,High School,Junior,33,Qom,34930.0
+90,31,10,PhD,Mid,37,Rasht,47862.0
+91,28,0,Master,Junior,59,Qom,43451.0
+92,60,32,Bachelor,Junior,49,Rasht,76782.0
+93,37,12,Master,Junior,33,Tehran,49625.0
+94,29,4,PhD,Junior,55,Mashhad,41542.0
+95,45,23,Master,Senior,46,Mashhad,82704.0
+96,20,0,High School,Mid,51,Qom,25808.0
+97,34,13,Bachelor,Senior,45,Rasht,57621.0
+98,46,25,PhD,Mid,30,Tabriz,86578.0
+99,22,0,Bachelor,Senior,52,Qom,44325.0
+100,41,18,High School,Junior,44,Isfahan,40121.0
+101,50,24,Bachelor,Junior,60,Mashhad,68970.0
+102,54,30,Master,Junior,55,Tehran,101075.0
+103,27,0,High School,Mid,49,Qom,25525.0
+104,51,30,Master,Junior,37,Karaj,79935.0
+105,46,19,High School,Junior,46,Rasht,51185.0
+106,27,2,High School,Junior,32,Rasht,24284.0
+107,48,22,PhD,Senior,43,Tehran,93917.0
+108,52,26,Bachelor,Senior,40,Karaj,85446.0
+109,42,21,Bachelor,Junior,30,Qom,50528.0
+110,33,9,Bachelor,Junior,40,Qom,38640.0
+111,43,20,Bachelor,Senior,49,Qom,73545.0
+112,35,8,Bachelor,Senior,59,Mashhad,58739.0
+113,32,5,Bachelor,Junior,50,Qom,25636.0
+114,47,23,High School,Mid,44,Tabriz,65851.0
+115,59,34,Bachelor,Mid,46,Mashhad,92648.0
+116,46,18,Bachelor,Mid,49,Isfahan,64203.0
+117,38,16,Master,Junior,52,Rasht,59958.0
+118,57,31,Bachelor,Mid,52,Mashhad,76366.0
+119,30,5,Master,Junior,60,Shiraz,42952.0
+120,37,14,Bachelor,Junior,36,Tehran,52240.0
+121,39,16,Bachelor,Junior,35,Karaj,43829.0
+122,40,20,High School,Junior,36,Tabriz,43738.0
+123,31,4,Bachelor,Junior,47,Tehran,37948.0
+124,26,0,Master,Junior,39,Mashhad,27954.0
+125,48,26,Bachelor,Senior,60,Tehran,93430.0
+126,47,25,Master,Junior,37,Shiraz,64173.0
+127,48,20,High School,Mid,52,Isfahan,63757.0
+128,51,30,High School,Mid,52,Tehran,90074.0
+129,51,25,Bachelor,Mid,37,Rasht,81602.0
+130,24,0,Bachelor,Junior,37,Mashhad,18893.0
+131,59,35,PhD,Junior,52,Tabriz,98174.0
+132,51,30,High School,Junior,32,Rasht,69921.0
+133,54,30,High School,Mid,30,Mashhad,75653.0
+134,49,25,High School,Mid,41,Karaj,70037.0
+135,27,4,PhD,Lead,52,Shiraz,71699.0
+136,26,6,Bachelor,Junior,56,Qom,44774.0
+137,48,22,High School,Junior,50,Karaj,60235.0
+138,29,1,Bachelor,Senior,41,Rasht,47064.0
+139,30,6,PhD,Mid,58,Rasht,53020.0
+140,20,0,PhD,Junior,49,Isfahan,40017.0
+141,29,4,Bachelor,Senior,40,Tehran,51057.0
+142,23,0,High School,Junior,38,Mashhad,17662.0
+143,51,29,Bachelor,Mid,35,Isfahan,77287.0
+144,37,11,Bachelor,Junior,48,Rasht,42418.0
+145,36,11,Master,Junior,53,Qom,52517.0
+146,25,0,High School,Mid,60,Qom,34992.0
+147,54,27,Bachelor,Junior,34,Qom,65366.0
+148,53,26,High School,Senior,56,Karaj,82061.0
+149,28,5,Bachelor,Mid,32,Tabriz,34932.0
+150,54,27,Bachelor,Lead,40,Rasht,91139.0
+151,60,35,Bachelor,Junior,36,Tehran,88449.0
+152,32,8,Bachelor,Mid,34,Rasht,37652.0
+153,40,18,Bachelor,Junior,41,Isfahan,54122.0
+154,48,28,Master,Junior,49,Tehran,83196.0
+155,59,33,PhD,Senior,40,Tabriz,108051.0
+156,39,13,Bachelor,Mid,39,Isfahan,54166.0
+157,57,32,Bachelor,Mid,52,Shiraz,94361.0
+158,52,27,High School,Mid,32,Mashhad,66733.0
+159,29,3,Master,Mid,42,Qom,38046.0
+160,21,0,Bachelor,Junior,49,Mashhad,27625.0
+161,36,13,Bachelor,Senior,46,Rasht,58637.0
+162,20,0,Master,Mid,60,Isfahan,49022.0
+163,30,7,High School,Mid,40,Isfahan,36320.0
+164,24,0,PhD,Mid,42,Mashhad,39904.0
+165,56,30,High School,Junior,47,Tehran,79439.0
+166,41,14,PhD,Senior,30,Qom,73331.0
+167,21,1,Bachelor,Junior,60,Tabriz,41228.0
+168,36,13,High School,Junior,30,Tehran,49352.0
+169,24,0,High School,Junior,34,Mashhad,20520.0
+170,50,27,High School,Junior,32,Karaj,59230.0
+171,24,2,Master,Mid,37,Mashhad,39719.0
+172,25,1,Master,Junior,37,Isfahan,35726.0
+173,20,0,Bachelor,Mid,58,Tabriz,42289.0
+174,20,0,Master,Senior,32,Rasht,54515.0
+175,35,10,Master,Senior,57,Isfahan,63277.0
+176,24,4,Master,Junior,45,Rasht,34371.0
+177,32,4,Master,Mid,53,Tehran,60537.0
+178,33,8,Master,Junior,60,Mashhad,46226.0
+179,59,35,Master,Junior,60,Qom,98441.0
+180,52,31,Bachelor,Mid,55,Qom,88783.0
+181,41,20,High School,Mid,55,Shiraz,56473.0
+182,40,13,Bachelor,Senior,48,Shiraz,61453.0
+183,30,7,Master,Senior,44,Karaj,63819.0
+184,35,8,Bachelor,Mid,39,Karaj,48019.0
+185,54,26,Master,Junior,58,Tehran,82605.0
+186,28,6,Bachelor,Mid,60,Qom,45979.0
+187,27,3,High School,Junior,33,Shiraz,22494.0
+188,47,23,High School,Senior,57,Tehran,87278.0
+189,53,27,Bachelor,Senior,50,Tehran,93090.0
+190,38,11,Master,Junior,32,Isfahan,54506.0
+191,33,11,Bachelor,Mid,34,Karaj,50590.0
+192,42,19,Bachelor,Senior,44,Mashhad,71704.0
+193,20,0,Bachelor,Junior,52,Isfahan,29850.0
+194,38,14,Bachelor,Lead,31,Isfahan,72946.0
+195,48,25,High School,Junior,39,Mashhad,61594.0
+196,56,35,High School,Mid,35,Tehran,90917.0
+197,55,33,High School,Junior,55,Tehran,90711.0
+198,49,22,Bachelor,Lead,54,Karaj,92425.0
+199,31,5,Master,Junior,57,Shiraz,45390.0
+200,58,33,Master,Mid,47,Mashhad,100752.0
+201,31,8,Master,Senior,45,Tehran,63035.0
+202,59,32,Master,Senior,44,Shiraz,100283.0
+203,29,8,Master,Senior,45,Karaj,67945.0
+204,43,23,High School,Mid,60,Rasht,62325.0
+205,22,0,Bachelor,Junior,42,Tabriz,21831.0
+206,42,21,Bachelor,Junior,37,Isfahan,54081.0
+207,31,7,Bachelor,Senior,53,Mashhad,56907.0
+208,55,31,Bachelor,Junior,40,Rasht,74329.0
+209,46,21,Bachelor,Lead,54,Qom,77054.0
+210,31,10,Master,Mid,41,Isfahan,59477.0
+211,23,3,Master,Lead,49,Tabriz,65772.0
+212,57,33,Bachelor,Junior,35,Qom,85172.0
+213,55,35,Bachelor,Junior,30,Tabriz,82903.0
+214,25,1,Master,Mid,31,Qom,35286.0
+215,53,33,High School,Junior,40,Rasht,74742.0
+216,32,9,PhD,Mid,43,Isfahan,60310.0
+217,21,0,PhD,Mid,45,Tehran,54913.0
+218,22,0,Bachelor,Senior,41,Karaj,44067.0
+219,43,18,Master,Lead,57,Tehran,99288.0
+220,57,35,Master,Junior,36,Karaj,96477.0
+221,35,8,Bachelor,Mid,57,Isfahan,55221.0
+222,51,26,Master,Mid,41,Qom,71930.0
+223,51,31,Bachelor,Mid,58,Rasht,85184.0
+224,38,11,High School,Junior,33,Mashhad,33988.0
+225,51,26,High School,Mid,41,Tabriz,63756.0
+226,33,8,High School,Junior,59,Rasht,33983.0
+227,23,0,PhD,Junior,59,Isfahan,48452.0
+228,30,8,High School,Mid,60,Mashhad,48949.0
+229,27,4,Bachelor,Mid,56,Isfahan,42233.0
+230,31,6,High School,Mid,37,Tabriz,37203.0
+231,37,16,Master,Lead,32,Tehran,77739.0
+232,42,20,Master,Senior,44,Rasht,72217.0
+233,49,29,High School,Junior,35,Tehran,77911.0
+234,32,9,Bachelor,Senior,32,Shiraz,47703.0
+235,58,35,Bachelor,Senior,58,Qom,95041.0
+236,28,2,Bachelor,Lead,33,Rasht,54486.0
+237,42,14,High School,Junior,34,Karaj,43183.0
+238,44,23,Bachelor,Junior,41,Karaj,62703.0
+239,51,30,Bachelor,Senior,35,Rasht,82893.0
+240,48,20,Bachelor,Senior,41,Qom,72322.0
+241,34,7,Bachelor,Mid,38,Karaj,45046.0
+242,33,5,Bachelor,Lead,52,Rasht,70335.0
+243,22,0,Master,Mid,40,Tehran,44390.0
+244,25,0,Bachelor,Junior,58,Shiraz,33626.0
+245,60,35,Bachelor,Junior,58,Mashhad,94808.0
+246,41,13,PhD,Mid,42,Qom,58527.0
+247,39,16,Bachelor,Junior,38,Mashhad,47943.0
+248,57,35,High School,Junior,44,Tehran,84445.0
+249,34,12,Bachelor,Lead,49,Tabriz,76064.0
+250,27,3,High School,Lead,47,Isfahan,53043.0
+251,31,6,Bachelor,Mid,53,Karaj,46418.0
+252,59,32,Bachelor,Junior,55,Rasht,86032.0
+253,38,18,High School,Senior,43,Mashhad,60628.0
+254,28,6,Bachelor,Junior,56,Rasht,43501.0
+255,48,20,Bachelor,Senior,47,Karaj,74905.0
+256,53,30,High School,Senior,41,Tehran,95876.0
+257,31,4,High School,Mid,32,Mashhad,35356.0
+258,30,9,Master,Senior,47,Tehran,74164.0
+259,20,0,Master,Junior,33,Rasht,27199.0
+260,32,5,High School,Junior,32,Qom,22839.0
+261,60,35,Master,Lead,52,Tabriz,117183.0
+262,46,21,Bachelor,Junior,52,Tehran,60590.0
+263,60,32,Master,Mid,59,Qom,93861.0
+264,58,30,Bachelor,Mid,30,Karaj,91248.0
+265,43,20,Bachelor,Mid,57,Mashhad,75473.0
+266,31,4,High School,Senior,44,Mashhad,45568.0
+267,46,20,Bachelor,Mid,52,Qom,60100.0
+268,41,16,Master,Junior,46,Karaj,55439.0
+269,54,29,Bachelor,Senior,51,Rasht,90968.0
+270,30,10,Master,Junior,51,Karaj,42933.0
+271,26,0,Master,Lead,32,Shiraz,52922.0
+272,36,14,Master,Junior,41,Tehran,60634.0
+273,50,26,PhD,Mid,60,Karaj,96169.0
+274,23,3,Master,Mid,51,Tabriz,50143.0
+275,53,29,High School,Junior,36,Shiraz,59416.0
+276,21,1,Bachelor,Junior,50,Tabriz,33435.0
+277,57,30,Bachelor,Mid,59,Isfahan,86645.0
+278,38,12,Bachelor,Senior,38,Mashhad,63866.0
+279,26,1,Bachelor,Junior,49,Shiraz,31186.0
+280,50,29,PhD,Junior,31,Rasht,82392.0
+281,25,0,High School,Senior,60,Isfahan,51333.0
+282,24,1,Master,Junior,42,Tabriz,32221.0
+283,55,32,Bachelor,Mid,58,Qom,96390.0
+284,43,17,Bachelor,Senior,45,Shiraz,66389.0
+285,34,12,Master,Mid,44,Qom,52851.0
+286,53,25,Bachelor,Senior,48,Tabriz,83567.0
+287,41,15,High School,Mid,31,Tehran,61065.0
+288,39,16,High School,Senior,34,Tehran,65662.0
+289,33,6,Bachelor,Mid,57,Tabriz,53500.0
+290,48,26,High School,Junior,53,Tehran,62866.0
+291,41,19,Master,Junior,57,Tabriz,64976.0
+292,51,30,High School,Mid,40,Rasht,76497.0
+293,49,23,PhD,Junior,32,Shiraz,71287.0
+294,34,10,High School,Mid,31,Rasht,42182.0
+295,44,18,Master,Senior,43,Shiraz,67276.0
+296,57,34,Master,Junior,54,Shiraz,97441.0
+297,44,19,PhD,Junior,57,Karaj,68981.0
+298,36,10,Master,Mid,35,Isfahan,46203.0
+299,27,1,Master,Junior,37,Mashhad,25389.0
+300,50,25,Bachelor,Junior,58,Qom,70162.0
+301,41,14,Master,Senior,55,Tabriz,71251.0
+302,27,4,Bachelor,Junior,48,Mashhad,43561.0
+303,34,11,Master,Junior,56,Qom,58168.0
+304,54,27,Master,Junior,34,Shiraz,71128.0
+305,54,34,Master,Mid,40,Tehran,95618.0
+306,43,20,Bachelor,Mid,38,Mashhad,64195.0
+307,29,5,High School,Mid,52,Karaj,43866.0
+308,34,7,Bachelor,Senior,48,Tehran,63962.0
+309,60,35,Master,Mid,41,Tehran,103710.0
+310,39,17,Bachelor,Mid,47,Karaj,62709.0
+311,46,23,Bachelor,Senior,54,Mashhad,84790.0
+312,60,35,Master,Junior,60,Tabriz,97657.0
+313,23,0,Master,Mid,53,Tabriz,38742.0
+314,45,23,Master,Mid,49,Mashhad,69841.0
+315,54,29,High School,Senior,39,Tehran,90876.0
+316,28,3,Master,Senior,55,Isfahan,51686.0
+317,38,16,High School,Mid,36,Mashhad,53199.0
+318,58,30,PhD,Senior,53,Tehran,99275.0
+319,56,31,PhD,Senior,31,Rasht,105221.0
+320,20,0,Master,Mid,50,Isfahan,46957.0
+321,26,2,Bachelor,Senior,35,Shiraz,46367.0
+322,30,6,Bachelor,Senior,57,Qom,49717.0
+323,26,3,Bachelor,Junior,60,Shiraz,33829.0
+324,31,3,High School,Junior,37,Qom,22300.0
+325,30,10,Bachelor,Mid,34,Isfahan,48398.0
+326,35,12,Bachelor,Senior,58,Shiraz,71695.0
+327,23,3,High School,Mid,53,Tabriz,27446.0
+328,29,5,PhD,Senior,58,Qom,56173.0
+329,46,19,High School,Mid,30,Qom,49639.0
+330,44,23,Master,Junior,55,Tehran,68677.0
+331,46,24,Master,Junior,34,Tabriz,57760.0
+332,46,22,Bachelor,Junior,40,Qom,55247.0
+333,26,3,Master,Junior,55,Mashhad,48150.0
+334,56,32,PhD,Senior,43,Tehran,119587.0
+335,25,0,High School,Junior,42,Qom,28782.0
+336,49,29,Bachelor,Lead,33,Rasht,94778.0
+337,23,0,PhD,Junior,37,Mashhad,39553.0
+338,50,28,Bachelor,Mid,50,Rasht,84569.0
+339,33,11,Bachelor,Lead,37,Rasht,61580.0
+340,56,34,High School,Junior,36,Mashhad,78303.0
+341,25,4,High School,Mid,35,Tabriz,28668.0
+342,32,4,Bachelor,Lead,52,Tehran,72175.0
+343,23,3,High School,Lead,57,Qom,61481.0
+344,31,5,High School,Junior,60,Mashhad,42349.0
+345,48,22,PhD,Lead,54,Karaj,101192.0
+346,26,0,Bachelor,Mid,47,Isfahan,28039.0
+347,44,20,Master,Junior,40,Tehran,66874.0
+348,60,35,Bachelor,Senior,47,Qom,101608.0
+349,20,0,High School,Senior,31,Tabriz,36102.0
+350,43,22,PhD,Junior,32,Mashhad,62111.0
+351,41,16,High School,Junior,53,Isfahan,41942.0
+352,48,28,Master,Lead,45,Isfahan,98764.0
+353,24,2,Bachelor,Mid,55,Mashhad,42869.0
+354,42,21,Bachelor,Lead,51,Rasht,76516.0
+355,37,11,High School,Senior,58,Rasht,60640.0
+356,47,19,Master,Junior,39,Rasht,53344.0
+357,44,17,Bachelor,Mid,54,Qom,58451.0
+358,53,30,Master,Junior,31,Tehran,88261.0
+359,40,17,High School,Senior,45,Karaj,60721.0
+360,45,17,Bachelor,Junior,37,Mashhad,51378.0
+361,59,35,High School,Mid,55,Tehran,108539.0
+362,39,11,Bachelor,Junior,30,Isfahan,43557.0
+363,55,27,Bachelor,Mid,33,Rasht,75388.0
+364,60,32,Master,Junior,50,Karaj,86138.0
+365,32,5,High School,Mid,30,Shiraz,36487.0
+366,47,22,High School,Senior,54,Shiraz,75263.0
+367,48,28,Bachelor,Junior,48,Tabriz,78838.0
+368,53,31,Bachelor,Junior,37,Karaj,73983.0
+369,25,1,Bachelor,Junior,42,Tabriz,31675.0
+370,47,24,Bachelor,Mid,35,Mashhad,70910.0
+371,29,8,PhD,Junior,58,Isfahan,56558.0
+372,36,16,High School,Mid,39,Isfahan,48927.0
+373,34,10,Bachelor,Mid,59,Shiraz,64108.0
+374,52,24,Master,Senior,37,Isfahan,82545.0
+375,37,11,High School,Mid,51,Tabriz,47913.0
+376,41,17,Master,Senior,52,Tehran,79650.0
+377,24,3,Bachelor,Mid,32,Mashhad,30118.0
+378,59,35,Master,Lead,45,Tabriz,104938.0
+379,37,13,High School,Mid,56,Qom,44609.0
+380,45,19,High School,Mid,36,Tabriz,57001.0
+381,47,23,Master,Mid,40,Isfahan,69570.0
+382,29,3,Master,Junior,34,Tehran,43446.0
+383,24,4,Bachelor,Junior,49,Tehran,39492.0
+384,21,0,Master,Mid,42,Tehran,43322.0
+385,50,29,Master,Junior,53,Tehran,91793.0
+386,34,11,Bachelor,Mid,40,Qom,43922.0
+387,54,31,Bachelor,Senior,43,Rasht,87475.0
+388,59,32,High School,Mid,51,Tehran,95162.0
+389,37,10,Master,Mid,52,Shiraz,44650.0
+390,21,1,Master,Junior,37,Tabriz,24799.0
+391,40,15,High School,Mid,56,Tabriz,47545.0
+392,35,9,Master,Lead,33,Qom,66451.0
+393,30,7,High School,Senior,57,Isfahan,48244.0
+394,58,31,Master,Junior,48,Rasht,85906.0
+395,55,31,PhD,Junior,47,Qom,87406.0
+396,49,24,High School,Mid,45,Shiraz,62237.0
+397,49,25,Bachelor,Mid,31,Isfahan,68376.0
+398,37,15,Master,Mid,51,Shiraz,60892.0
+399,29,1,High School,Senior,39,Karaj,47216.0
+400,23,0,PhD,Junior,44,Shiraz,32086.0
+401,51,30,High School,Mid,58,Mashhad,85533.0
+402,37,12,High School,Lead,31,Rasht,62949.0
+403,46,21,High School,Senior,49,Isfahan,73444.0
+404,33,12,Bachelor,Junior,35,Rasht,37412.0
+405,25,0,Master,Senior,52,Qom,56042.0
+406,47,23,High School,Mid,44,Tehran,73168.0
+407,55,28,High School,Junior,38,Shiraz,62250.0
+408,55,32,PhD,Junior,35,Qom,76977.0
+409,33,6,Bachelor,Lead,40,Rasht,57528.0
+410,31,3,Bachelor,Junior,39,Tabriz,37164.0
+411,38,13,High School,Junior,39,Rasht,32951.0
+412,57,32,Master,Mid,55,Tabriz,90913.0
+413,29,1,Bachelor,Mid,32,Tabriz,34163.0
+414,59,35,Bachelor,Junior,31,Rasht,79664.0
+415,31,9,Bachelor,Senior,53,Tabriz,58990.0
+416,24,0,Bachelor,Mid,39,Shiraz,33884.0
+417,51,28,Bachelor,Mid,47,Tehran,76249.0
+418,27,3,High School,Senior,47,Mashhad,41949.0
+419,34,10,Bachelor,Mid,49,Qom,54934.0
+420,37,10,Bachelor,Mid,52,Shiraz,52948.0
+421,33,6,Master,Junior,30,Qom,39812.0
+422,32,11,High School,Mid,31,Karaj,43273.0
+423,40,15,Bachelor,Senior,38,Isfahan,61971.0
+424,33,7,Bachelor,Mid,51,Tabriz,40732.0
+425,32,10,Bachelor,Junior,42,Tabriz,34716.0
+426,57,32,Bachelor,Senior,53,Shiraz,95156.0
+427,44,16,High School,Junior,56,Karaj,57944.0
+428,50,23,High School,Senior,49,Rasht,71626.0
+429,23,3,Bachelor,Junior,51,Isfahan,38209.0
+430,46,26,High School,Junior,40,Tabriz,61162.0
+431,53,33,Bachelor,Mid,39,Isfahan,91961.0
+432,44,23,PhD,Senior,37,Karaj,82913.0
+433,56,28,PhD,Senior,50,Mashhad,96576.0
+434,30,9,Bachelor,Mid,36,Tehran,52239.0
+435,29,5,High School,Senior,38,Tehran,55470.0
+436,48,23,Bachelor,Junior,56,Rasht,64326.0
+437,20,0,Master,Mid,38,Tabriz,39082.0
+438,54,30,Master,Mid,50,Isfahan,91774.0
+439,33,10,PhD,Junior,33,Isfahan,47564.0
+440,50,24,Master,Senior,31,Isfahan,81522.0
+441,54,34,High School,Senior,46,Tehran,107649.0
+442,48,27,High School,Mid,48,Mashhad,71131.0
+443,28,2,Bachelor,Mid,39,Karaj,37224.0
+444,55,34,Bachelor,Mid,50,Qom,99468.0
+445,59,31,High School,Junior,41,Qom,60405.0
+446,31,6,Master,Junior,33,Mashhad,42108.0
+447,38,15,Master,Junior,44,Isfahan,51091.0
+448,33,9,PhD,Mid,35,Tehran,62206.0
+449,56,29,Master,Junior,54,Karaj,89620.0
+450,46,24,High School,Senior,35,Shiraz,65522.0
+451,60,32,Bachelor,Junior,53,Qom,86631.0
+452,25,0,Bachelor,Junior,35,Qom,21716.0
+453,29,9,High School,Senior,34,Shiraz,56898.0
+454,29,8,PhD,Mid,49,Qom,66802.0
+455,53,26,Bachelor,Junior,30,Karaj,67099.0
+456,48,21,High School,Mid,37,Qom,50366.0
+457,40,14,Bachelor,Mid,30,Rasht,46509.0
+458,51,27,Bachelor,Senior,51,Qom,76588.0
+459,46,25,Bachelor,Junior,56,Qom,70796.0
+460,26,0,PhD,Junior,41,Karaj,43438.0
+461,46,25,PhD,Mid,41,Tehran,82894.0
+462,44,23,Bachelor,Lead,32,Karaj,87495.0
+463,22,0,Master,Lead,44,Rasht,52440.0
+464,54,26,PhD,Junior,54,Mashhad,83282.0
+465,30,4,Bachelor,Mid,45,Rasht,29146.0
+466,26,6,Bachelor,Mid,59,Isfahan,52607.0
+467,35,12,Bachelor,Mid,38,Shiraz,44091.0
+468,43,16,High School,Junior,46,Rasht,37153.0
+469,47,27,Bachelor,Senior,57,Tehran,90451.0
+470,56,31,Bachelor,Senior,56,Shiraz,104602.0
+471,34,10,High School,Mid,34,Shiraz,43758.0
+472,21,0,Bachelor,Mid,38,Isfahan,35171.0
+473,26,4,Master,Mid,37,Tabriz,42556.0
+474,53,29,Bachelor,Senior,52,Tehran,96599.0
+475,58,32,Bachelor,Senior,50,Tabriz,107909.0
+476,26,3,Bachelor,Mid,49,Qom,42858.0
+477,38,15,High School,Junior,57,Mashhad,53908.0
+478,31,6,Master,Junior,54,Tabriz,39865.0
+479,53,31,Master,Senior,47,Mashhad,95712.0
+480,44,19,Master,Lead,59,Mashhad,95716.0
+481,33,12,Bachelor,Mid,52,Mashhad,50785.0
+482,26,0,Bachelor,Senior,36,Isfahan,45002.0
+483,29,9,Bachelor,Mid,43,Isfahan,50354.0
+484,35,9,Bachelor,Senior,43,Isfahan,53152.0
+485,29,6,High School,Senior,33,Karaj,48052.0
+486,47,22,PhD,Junior,52,Rasht,71724.0
+487,55,32,PhD,Mid,47,Tabriz,95752.0
+488,26,6,Bachelor,Junior,55,Shiraz,41142.0
+489,56,33,High School,Junior,41,Shiraz,86079.0
+490,21,0,Bachelor,Senior,48,Karaj,54816.0
+491,40,19,Master,Senior,56,Qom,83931.0
+492,41,13,Bachelor,Junior,52,Isfahan,46335.0
+493,26,0,Bachelor,Junior,56,Tabriz,37071.0
+494,58,32,High School,Mid,38,Karaj,83687.0
+495,57,35,High School,Lead,35,Karaj,104270.0
+496,52,27,Bachelor,Mid,44,Karaj,80345.0
+497,60,34,Master,Mid,39,Karaj,98877.0
+498,33,6,High School,Junior,36,Qom,25476.0
+499,34,6,Master,Lead,38,Mashhad,69996.0
+500,26,1,High School,Lead,52,Shiraz,45564.0
+501,44,20,PhD,Mid,54,Shiraz,74240.0
+502,36,13,Bachelor,Junior,45,Karaj,45931.0
+503,41,19,Bachelor,Junior,53,Isfahan,67239.0
+504,56,35,High School,Mid,39,Qom,79663.0
+505,23,2,Master,Junior,53,Karaj,44754.0
+506,28,2,Master,Lead,58,Tehran,77663.0
+507,24,4,Bachelor,Junior,39,Tabriz,28578.0
+508,41,13,Master,Mid,51,Mashhad,65915.0
+509,38,11,Master,Mid,51,Tabriz,60436.0
+510,21,0,Master,Mid,39,Qom,28292.0
+511,23,1,Master,Senior,38,Tabriz,45713.0
+512,44,21,Bachelor,Senior,34,Shiraz,70354.0
+513,49,28,High School,Mid,43,Tehran,82622.0
+514,44,20,Bachelor,Mid,53,Qom,60346.0
+515,58,35,Bachelor,Mid,34,Tehran,96921.0
+516,60,35,Master,Lead,46,Rasht,108426.0
+517,35,11,Bachelor,Junior,35,Isfahan,35959.0
+518,45,18,Bachelor,Mid,31,Isfahan,59844.0
+519,53,28,Master,Senior,48,Rasht,93670.0
+520,38,15,High School,Mid,44,Karaj,49716.0
+521,23,1,PhD,Lead,56,Tehran,78868.0
+522,35,7,Bachelor,Junior,55,Shiraz,41889.0
+523,45,23,PhD,Junior,58,Mashhad,79058.0
+524,31,3,High School,Lead,54,Karaj,57332.0
+525,38,16,Bachelor,Junior,41,Mashhad,46568.0
+526,49,28,Bachelor,Junior,52,Mashhad,77791.0
+527,53,28,Master,Senior,51,Mashhad,99652.0
+528,45,24,High School,Mid,54,Qom,68608.0
+529,20,0,Master,Mid,57,Karaj,44004.0
+530,55,28,Master,Junior,38,Isfahan,77063.0
+531,49,27,Bachelor,Mid,57,Shiraz,85475.0
+532,55,33,Master,Junior,56,Shiraz,102274.0
+533,26,1,Master,Junior,53,Tabriz,38169.0
+534,23,0,Bachelor,Lead,59,Shiraz,56791.0
+535,27,3,High School,Mid,37,Tehran,45914.0
+536,27,6,Bachelor,Senior,58,Qom,58768.0
+537,33,6,Bachelor,Mid,38,Tehran,49440.0
+538,25,3,Master,Junior,45,Karaj,36799.0
+539,42,14,PhD,Junior,43,Isfahan,56708.0
+540,21,0,Bachelor,Lead,58,Isfahan,70327.0
+541,28,7,High School,Mid,41,Isfahan,47652.0
+542,33,8,Bachelor,Junior,42,Tehran,36660.0
+543,42,14,Master,Junior,37,Shiraz,47109.0
+544,60,35,Bachelor,Mid,31,Rasht,88122.0
+545,20,0,Master,Mid,45,Tabriz,33756.0
+546,32,11,Bachelor,Senior,33,Tabriz,57561.0
+547,37,12,Bachelor,Lead,54,Tehran,77877.0
+548,25,5,Bachelor,Senior,54,Qom,53211.0
+549,40,19,Bachelor,Mid,41,Karaj,60688.0
+550,20,0,Master,Mid,56,Shiraz,52439.0
+551,36,10,Bachelor,Mid,31,Karaj,54050.0
+552,34,10,Bachelor,Junior,50,Mashhad,40810.0
+553,41,19,Master,Junior,52,Mashhad,52587.0
+554,24,0,High School,Junior,37,Mashhad,17473.0
+555,27,3,PhD,Senior,58,Tehran,71368.0
+556,51,31,Bachelor,Mid,34,Tehran,91694.0
+557,24,3,Master,Senior,39,Shiraz,51698.0
+558,41,19,High School,Senior,40,Mashhad,68722.0
+559,52,29,Bachelor,Senior,54,Mashhad,91902.0
+560,24,0,High School,Lead,38,Qom,45575.0
+561,21,0,Bachelor,Junior,32,Rasht,22601.0
+562,43,21,Bachelor,Lead,59,Mashhad,92598.0
+563,40,16,PhD,Senior,35,Isfahan,75346.0
+564,60,34,Bachelor,Junior,57,Qom,80268.0
+565,41,15,PhD,Lead,32,Shiraz,84623.0
+566,58,35,Master,Mid,50,Qom,97067.0
+567,20,0,Master,Senior,34,Tehran,53575.0
+568,40,14,High School,Mid,36,Rasht,36914.0
+569,26,1,High School,Mid,34,Isfahan,26519.0
+570,51,27,High School,Junior,41,Karaj,61103.0
+571,41,16,Bachelor,Mid,38,Qom,59104.0
+572,34,7,Master,Mid,42,Shiraz,45433.0
+573,27,7,High School,Junior,39,Karaj,28288.0
+574,34,7,Bachelor,Junior,51,Qom,35408.0
+575,20,0,High School,Mid,44,Mashhad,26510.0
+576,32,5,Master,Senior,43,Mashhad,46838.0
+577,33,9,Bachelor,Junior,60,Karaj,39833.0
+578,29,7,PhD,Senior,59,Karaj,72463.0
+579,43,15,Bachelor,Mid,42,Shiraz,56966.0
+580,36,8,Bachelor,Mid,36,Isfahan,40098.0
+581,53,33,Master,Mid,47,Tehran,101293.0
+582,22,0,Master,Junior,57,Tabriz,39858.0
+583,31,7,Bachelor,Mid,45,Tabriz,50494.0
+584,47,24,High School,Senior,44,Qom,70256.0
+585,47,24,Bachelor,Mid,60,Karaj,79765.0
+586,36,15,Master,Mid,31,Qom,47071.0
+587,55,32,Master,Junior,32,Mashhad,84485.0
+588,40,20,PhD,Junior,44,Shiraz,65923.0
+589,47,21,High School,Junior,33,Karaj,53979.0
+590,39,16,Bachelor,Junior,45,Karaj,54017.0
+591,29,8,Bachelor,Mid,42,Qom,44079.0
+592,27,4,Bachelor,Mid,31,Shiraz,35704.0
+593,44,16,Bachelor,Lead,53,Shiraz,82446.0
+594,45,22,Bachelor,Junior,35,Qom,55051.0
+595,49,26,Bachelor,Senior,52,Shiraz,89469.0
+596,28,5,PhD,Senior,48,Karaj,59999.0
+597,26,3,Bachelor,Senior,57,Karaj,56692.0
+598,20,0,Bachelor,Junior,48,Tehran,35168.0
+599,28,8,Master,Mid,59,Qom,46725.0
+600,59,32,Bachelor,Senior,56,Qom,100453.0
+601,60,35,High School,Mid,59,Tehran,98975.0
+602,56,29,Bachelor,Senior,57,Shiraz,92852.0
+603,28,0,High School,Mid,57,Tabriz,39942.0
+604,49,22,High School,Lead,58,Rasht,75207.0
+605,26,1,High School,Senior,44,Shiraz,37095.0
+606,41,15,Master,Senior,43,Qom,60424.0
+607,54,27,Master,Junior,43,Shiraz,73684.0
+608,33,5,Bachelor,Junior,35,Shiraz,32183.0
+609,45,25,Bachelor,Mid,53,Tabriz,79539.0
+610,41,18,Master,Mid,48,Karaj,68327.0
+611,30,3,Master,Senior,36,Karaj,49680.0
+612,57,30,Master,Senior,34,Tabriz,90828.0
+613,29,8,PhD,Lead,34,Isfahan,79896.0
+614,22,0,Bachelor,Senior,46,Tabriz,46108.0
+615,30,9,Master,Mid,43,Shiraz,48818.0
+616,40,19,Master,Junior,54,Karaj,70863.0
+617,55,34,High School,Junior,60,Qom,91749.0
+618,51,25,Master,Senior,34,Mashhad,82909.0
+619,20,0,Master,Mid,48,Mashhad,41841.0
+620,32,8,High School,Junior,49,Tehran,42790.0
+621,53,29,High School,Mid,33,Mashhad,76767.0
+622,20,0,High School,Junior,35,Mashhad,16114.0
+623,58,32,Master,Lead,45,Mashhad,110658.0
+624,58,35,Master,Mid,39,Qom,93350.0
+625,41,16,High School,Junior,35,Mashhad,42065.0
+626,58,35,Bachelor,Junior,39,Tabriz,79434.0
+627,34,11,Bachelor,Junior,49,Qom,46057.0
+628,34,11,PhD,Mid,53,Qom,57649.0
+629,57,35,High School,Mid,36,Qom,86405.0
+630,25,0,Master,Mid,55,Tehran,45282.0
+631,42,14,High School,Senior,48,Karaj,59391.0
+632,56,32,High School,Mid,32,Rasht,81430.0
+633,50,30,Bachelor,Junior,59,Tabriz,86808.0
+634,42,20,PhD,Junior,54,Rasht,76257.0
+635,58,35,High School,Junior,40,Mashhad,80055.0
+636,33,5,High School,Mid,34,Karaj,33872.0
+637,21,0,Master,Junior,43,Rasht,35108.0
+638,50,29,Bachelor,Mid,40,Tabriz,82102.0
+639,49,22,Bachelor,Mid,56,Karaj,71895.0
+640,52,28,Bachelor,Mid,41,Isfahan,73764.0
+641,28,2,Bachelor,Mid,55,Isfahan,39600.0
+642,50,29,Bachelor,Junior,55,Mashhad,77794.0
+643,21,0,Bachelor,Mid,36,Isfahan,32817.0
+644,56,35,Master,Mid,50,Qom,97686.0
+645,51,29,Bachelor,Junior,37,Tabriz,79804.0
+646,58,35,PhD,Mid,57,Rasht,102216.0
+647,54,26,Bachelor,Senior,32,Tehran,82572.0
+648,51,24,Master,Mid,30,Mashhad,72958.0
+649,37,17,High School,Senior,56,Isfahan,70872.0
+650,57,31,PhD,Senior,52,Shiraz,101773.0
+651,22,0,Bachelor,Junior,33,Tehran,27475.0
+652,38,14,PhD,Mid,41,Qom,57453.0
+653,59,35,Bachelor,Mid,45,Qom,92693.0
+654,26,2,Bachelor,Mid,53,Tehran,57727.0
+655,58,35,Bachelor,Junior,57,Mashhad,96538.0
+656,59,35,Master,Senior,41,Qom,102824.0
+657,46,22,PhD,Mid,46,Shiraz,85379.0
+658,28,6,Master,Senior,37,Karaj,60231.0
+659,41,13,Master,Mid,46,Tabriz,65998.0
+660,52,28,PhD,Junior,30,Isfahan,81792.0
+661,27,2,Bachelor,Junior,53,Tabriz,33843.0
+662,43,19,Master,Mid,34,Rasht,69755.0
+663,31,6,High School,Senior,31,Tehran,48991.0
+664,45,20,Master,Junior,45,Mashhad,55818.0
+665,20,0,High School,Senior,47,Rasht,30508.0
+666,41,14,Master,Senior,36,Karaj,73114.0
+667,60,35,High School,Junior,42,Tabriz,87869.0
+668,20,0,Bachelor,Senior,35,Rasht,31024.0
+669,31,7,Master,Mid,31,Shiraz,48305.0
+670,25,3,Bachelor,Junior,51,Tehran,38242.0
+671,54,26,PhD,Lead,51,Tabriz,93001.0
+672,53,29,High School,Senior,54,Mashhad,89775.0
+673,25,0,Bachelor,Mid,38,Tehran,29438.0
+674,33,11,Bachelor,Mid,52,Shiraz,50924.0
+675,56,34,Bachelor,Lead,55,Karaj,116223.0
+676,37,11,Bachelor,Mid,51,Mashhad,51606.0
+677,56,30,PhD,Mid,50,Isfahan,93554.0
+678,49,25,High School,Mid,58,Karaj,73947.0
+679,58,34,PhD,Senior,59,Karaj,117100.0
+680,49,29,PhD,Senior,33,Isfahan,98893.0
+681,50,28,Master,Lead,56,Tehran,115107.0
+682,29,1,Master,Senior,38,Mashhad,43589.0
+683,40,20,High School,Junior,60,Karaj,56210.0
+684,51,28,Bachelor,Junior,38,Mashhad,74200.0
+685,42,22,Bachelor,Junior,34,Tehran,63254.0
+686,30,2,Bachelor,Junior,46,Qom,34671.0
+687,56,34,Bachelor,Mid,39,Isfahan,91197.0
+688,28,0,Bachelor,Senior,45,Tabriz,46746.0
+689,56,32,High School,Senior,32,Qom,83870.0
+690,20,0,Master,Senior,57,Rasht,52370.0
+691,55,30,Bachelor,Senior,44,Shiraz,86352.0
+692,26,6,Master,Junior,38,Tabriz,47339.0
+693,58,31,PhD,Mid,50,Shiraz,97278.0
+694,47,26,Bachelor,Junior,55,Isfahan,73173.0
+695,36,12,Bachelor,Junior,59,Tabriz,50288.0
+696,48,26,High School,Senior,34,Shiraz,77445.0
+697,32,4,High School,Mid,55,Tabriz,41904.0
+698,31,6,Bachelor,Mid,46,Rasht,44502.0
+699,58,33,Bachelor,Mid,36,Isfahan,93900.0
+700,21,0,Bachelor,Junior,60,Karaj,37530.0
+701,29,5,Master,Junior,39,Mashhad,40726.0
+702,40,13,High School,Senior,54,Isfahan,56091.0
+703,31,9,High School,Junior,57,Isfahan,46702.0
+704,59,35,Bachelor,Mid,45,Qom,98749.0
+705,21,0,Master,Lead,53,Shiraz,62600.0
+706,22,0,High School,Mid,54,Isfahan,40742.0
+707,60,34,Bachelor,Junior,51,Isfahan,78688.0
+708,32,6,Master,Mid,46,Qom,41108.0
+709,29,5,Master,Senior,36,Karaj,57346.0
+710,43,18,High School,Junior,43,Tehran,46482.0
+711,56,34,Bachelor,Lead,30,Tabriz,110164.0
+712,27,6,Master,Mid,49,Karaj,45941.0
+713,35,13,Bachelor,Junior,37,Shiraz,37220.0
+714,29,4,Master,Junior,38,Shiraz,39581.0
+715,25,0,High School,Mid,42,Mashhad,25966.0
+716,30,10,Master,Mid,45,Tehran,62148.0
+717,24,0,PhD,Mid,37,Isfahan,43490.0
+718,36,11,Bachelor,Senior,57,Qom,58982.0
+719,53,28,Master,Junior,48,Tabriz,82481.0
+720,42,19,Bachelor,Mid,52,Karaj,62712.0
+721,38,13,Bachelor,Senior,46,Karaj,65711.0
+722,49,21,Master,Junior,59,Tehran,70417.0
+723,35,9,Bachelor,Mid,50,Isfahan,54114.0
+724,53,29,High School,Senior,34,Isfahan,80566.0
+725,23,0,Bachelor,Mid,55,Rasht,33326.0
+726,50,26,Bachelor,Senior,36,Tehran,90209.0
+727,23,2,Bachelor,Junior,52,Isfahan,26043.0
+728,37,9,Bachelor,Junior,60,Rasht,36201.0
+729,21,0,Bachelor,Mid,36,Karaj,32957.0
+730,32,8,Bachelor,Mid,46,Shiraz,58411.0
+731,35,8,High School,Senior,45,Isfahan,59012.0
+732,39,13,Master,Junior,51,Tehran,71915.0
+733,20,0,PhD,Lead,45,Mashhad,70154.0
+734,57,32,Master,Mid,50,Tabriz,101857.0
+735,51,25,Master,Mid,50,Rasht,82543.0
+736,46,21,Master,Mid,37,Qom,67161.0
+737,22,2,Bachelor,Mid,31,Qom,31121.0
+738,21,0,Master,Mid,43,Tabriz,42032.0
+739,27,4,Master,Junior,38,Karaj,37401.0
+740,29,8,Bachelor,Junior,36,Qom,33644.0
+741,58,30,Master,Senior,34,Qom,90473.0
+742,39,12,Bachelor,Senior,45,Shiraz,68910.0
+743,58,35,Bachelor,Junior,33,Isfahan,86894.0
+744,23,2,PhD,Mid,43,Rasht,50224.0
+745,36,15,High School,Mid,32,Tehran,51411.0
+746,44,23,Bachelor,Mid,51,Karaj,65578.0
+747,28,6,PhD,Junior,47,Mashhad,43877.0
+748,38,11,Bachelor,Mid,38,Isfahan,39478.0
+749,39,17,PhD,Mid,53,Tabriz,71128.0
+750,46,25,PhD,Junior,31,Mashhad,73335.0
+751,33,8,High School,Mid,50,Tabriz,47915.0
+752,24,3,Master,Mid,52,Isfahan,45367.0
+753,46,25,Master,Mid,34,Karaj,73389.0
+754,28,0,Bachelor,Mid,41,Isfahan,37112.0
+755,49,22,Master,Mid,32,Tehran,72248.0
+756,40,17,High School,Junior,37,Mashhad,37260.0
+757,59,34,PhD,Mid,48,Mashhad,100735.0
+758,33,5,High School,Mid,35,Karaj,44496.0
+759,21,0,PhD,Mid,59,Rasht,44949.0
+760,38,15,Bachelor,Junior,50,Qom,52855.0
+761,40,18,Bachelor,Senior,31,Rasht,57859.0
+762,43,20,High School,Senior,32,Isfahan,67229.0
+763,36,8,High School,Mid,34,Tehran,42496.0
+764,49,22,High School,Junior,41,Tehran,57795.0
+765,20,0,Bachelor,Mid,51,Shiraz,37732.0
+766,43,18,Bachelor,Lead,50,Rasht,85424.0
+767,52,24,Master,Junior,38,Mashhad,67478.0
+768,29,2,Bachelor,Senior,55,Isfahan,55291.0
+769,49,25,Master,Junior,35,Isfahan,68905.0
+770,55,32,Master,Lead,51,Shiraz,114068.0
+771,29,2,Bachelor,Mid,43,Tehran,38076.0
+772,38,12,Master,Junior,48,Shiraz,42137.0
+773,43,19,Bachelor,Lead,56,Tehran,90836.0
+774,33,12,High School,Senior,48,Tabriz,49433.0
+775,53,25,Master,Junior,35,Mashhad,68758.0
+776,34,11,Master,Mid,45,Tabriz,54872.0
+777,55,33,High School,Mid,47,Tehran,90734.0
+778,30,5,Bachelor,Mid,40,Mashhad,45095.0
+779,60,35,Bachelor,Junior,38,Rasht,78331.0
+780,51,24,High School,Mid,36,Shiraz,63896.0
+781,52,30,Master,Mid,57,Shiraz,87216.0
+782,25,2,Bachelor,Junior,37,Mashhad,25965.0
+783,24,4,Master,Senior,39,Karaj,52530.0
+784,20,0,PhD,Junior,57,Shiraz,41450.0
+785,50,25,Master,Senior,40,Shiraz,83359.0
+786,48,28,Master,Junior,42,Tehran,85248.0
+787,50,25,Bachelor,Junior,42,Rasht,59567.0
+788,29,9,PhD,Mid,51,Tehran,68390.0
+789,50,23,Master,Junior,41,Qom,60042.0
+790,51,24,Bachelor,Mid,40,Isfahan,68943.0
+791,40,17,Bachelor,Mid,49,Mashhad,57583.0
+792,56,35,Bachelor,Mid,56,Shiraz,104926.0
+793,21,0,Master,Mid,38,Tabriz,26566.0
+794,33,5,Bachelor,Senior,48,Isfahan,54000.0
+795,57,35,PhD,Senior,53,Isfahan,113799.0
+796,59,35,High School,Junior,36,Shiraz,82967.0
+797,45,24,Bachelor,Junior,58,Qom,69258.0
+798,36,16,High School,Senior,59,Karaj,80503.0
+799,20,0,High School,Mid,49,Isfahan,30879.0
+800,37,14,Bachelor,Senior,35,Karaj,61437.0
+801,49,22,Bachelor,Senior,38,Isfahan,72448.0
+802,36,8,High School,Junior,56,Rasht,38653.0
+803,22,0,Bachelor,Junior,53,Karaj,40715.0
+804,20,0,Bachelor,Mid,32,Mashhad,41517.0
+805,40,20,Bachelor,Senior,50,Mashhad,73346.0
+806,34,6,Master,Senior,52,Qom,51219.0
+807,26,1,High School,Senior,35,Tabriz,39502.0
+808,32,6,High School,Mid,42,Karaj,31907.0
+809,30,8,Master,Lead,36,Tehran,64858.0
+810,50,25,Bachelor,Junior,45,Tabriz,67979.0
+811,36,12,Master,Mid,38,Karaj,51987.0
+812,44,17,Bachelor,Junior,35,Tehran,51887.0
+813,58,31,Master,Mid,44,Qom,84658.0
+814,43,17,High School,Mid,50,Karaj,55708.0
+815,31,9,Bachelor,Mid,47,Tabriz,58057.0
+816,28,5,PhD,Mid,45,Tabriz,58076.0
+817,33,8,Bachelor,Junior,56,Tabriz,33703.0
+818,23,3,Bachelor,Junior,40,Rasht,22869.0
+819,55,32,Bachelor,Mid,33,Tehran,83382.0
+820,50,25,High School,Mid,40,Isfahan,62182.0
+821,41,18,High School,Senior,31,Mashhad,59549.0
+822,60,35,Bachelor,Mid,31,Tabriz,94876.0
+823,48,27,Master,Mid,33,Qom,79257.0
+824,25,4,Master,Junior,46,Rasht,37654.0
+825,52,25,PhD,Mid,33,Tabriz,79378.0
+826,53,32,Bachelor,Junior,43,Karaj,75564.0
+827,55,32,High School,Mid,46,Rasht,87932.0
+828,50,30,Master,Junior,60,Shiraz,90480.0
+829,25,4,Master,Senior,55,Shiraz,53750.0
+830,52,32,Bachelor,Junior,56,Rasht,85929.0
+831,58,35,PhD,Mid,50,Shiraz,109384.0
+832,56,35,High School,Junior,43,Rasht,80242.0
+833,23,0,Bachelor,Mid,40,Rasht,19696.0
+834,54,27,High School,Senior,39,Tehran,81073.0
+835,56,34,Master,Mid,54,Tabriz,97862.0
+836,58,33,PhD,Senior,44,Shiraz,113447.0
+837,51,31,Bachelor,Junior,44,Tehran,87235.0
+838,29,1,Bachelor,Junior,45,Tehran,37550.0
+839,45,19,Bachelor,Senior,34,Rasht,77825.0
+840,28,8,Master,Senior,34,Mashhad,59696.0
+841,57,31,High School,Senior,49,Tabriz,88925.0
+842,32,12,Master,Junior,59,Mashhad,60564.0
+843,36,11,Master,Junior,32,Rasht,40277.0
+844,36,10,Bachelor,Senior,31,Qom,50605.0
+845,42,16,PhD,Junior,58,Mashhad,65616.0
+846,31,5,Master,Mid,35,Shiraz,40125.0
+847,39,12,Bachelor,Junior,59,Karaj,48893.0
+848,36,15,High School,Junior,31,Mashhad,38858.0
+849,25,2,Bachelor,Junior,57,Shiraz,33773.0
+850,32,9,PhD,Junior,52,Qom,53605.0
+851,43,18,Bachelor,Senior,56,Mashhad,66697.0
+852,45,21,PhD,Mid,58,Mashhad,82377.0
+853,41,14,PhD,Junior,42,Tehran,59787.0
+854,29,3,PhD,Mid,49,Mashhad,60004.0
+855,56,35,Bachelor,Junior,33,Rasht,86690.0
+856,57,31,Bachelor,Senior,50,Tehran,102402.0
+857,33,13,Bachelor,Junior,32,Tabriz,47795.0
+858,53,32,Bachelor,Senior,41,Qom,88450.0
+859,42,14,PhD,Senior,35,Tabriz,69435.0
+860,41,15,High School,Junior,38,Tehran,48902.0
+861,38,10,Bachelor,Junior,44,Shiraz,38634.0
+862,53,29,Master,Senior,50,Qom,89334.0
+863,40,15,High School,Lead,40,Isfahan,70074.0
+864,42,17,PhD,Junior,46,Isfahan,63141.0
+865,25,3,Master,Mid,53,Shiraz,46635.0
+866,35,12,PhD,Junior,40,Tehran,52596.0
+867,55,30,PhD,Mid,31,Shiraz,93413.0
+868,34,14,Bachelor,Senior,51,Tabriz,65479.0
+869,27,6,Bachelor,Senior,33,Tehran,44506.0
+870,24,0,High School,Mid,45,Isfahan,27501.0
+871,23,2,Bachelor,Junior,39,Rasht,21175.0
+872,26,6,Bachelor,Junior,59,Shiraz,35192.0
+873,37,15,Bachelor,Mid,41,Isfahan,46937.0
+874,50,22,Bachelor,Mid,32,Mashhad,73583.0
+875,42,18,Bachelor,Senior,59,Rasht,78276.0
+876,27,3,Master,Junior,32,Tabriz,32008.0
+877,26,1,Bachelor,Lead,46,Rasht,62253.0
+878,52,28,Bachelor,Lead,44,Isfahan,96315.0
+879,36,16,High School,Mid,47,Qom,47110.0
+880,40,12,High School,Senior,30,Tabriz,48401.0
+881,39,17,Bachelor,Mid,49,Rasht,62192.0
+882,45,17,Bachelor,Senior,43,Mashhad,69148.0
+883,51,24,Bachelor,Mid,53,Mashhad,72958.0
+884,52,32,High School,Mid,52,Tabriz,82662.0
+885,43,22,Bachelor,Junior,51,Rasht,57311.0
+886,32,12,High School,Senior,38,Qom,46508.0
+887,30,7,Bachelor,Mid,34,Tehran,48671.0
+888,24,1,High School,Mid,48,Shiraz,32286.0
+889,33,13,High School,Junior,49,Karaj,47671.0
+890,54,26,Master,Mid,39,Shiraz,76667.0
+891,48,21,PhD,Senior,48,Tabriz,82667.0
+892,56,32,Bachelor,Mid,31,Rasht,90663.0
+893,60,35,Master,Junior,34,Tabriz,90465.0
+894,50,23,High School,Lead,58,Qom,95225.0
+895,37,9,High School,Junior,48,Karaj,39212.0
+896,29,2,Master,Senior,38,Karaj,58820.0
+897,42,14,PhD,Mid,45,Rasht,62108.0
+898,46,19,Bachelor,Junior,38,Mashhad,54518.0
+899,29,9,Bachelor,Lead,46,Tabriz,67346.0
+900,53,29,Bachelor,Lead,31,Isfahan,99066.0
+901,20,0,Bachelor,Mid,58,Mashhad,34838.0
+902,41,19,High School,Junior,55,Rasht,50100.0
+903,49,29,Bachelor,Lead,49,Karaj,96921.0
+904,40,20,Bachelor,Junior,30,Shiraz,58509.0
+905,51,27,Bachelor,Senior,45,Tehran,97317.0
+906,57,35,Bachelor,Junior,51,Isfahan,95749.0
+907,35,14,Master,Mid,30,Isfahan,58755.0
+908,56,28,Bachelor,Junior,42,Isfahan,69654.0
+909,51,31,PhD,Mid,49,Qom,89438.0
+910,55,33,Bachelor,Junior,39,Rasht,79765.0
+911,44,20,High School,Senior,45,Karaj,71915.0
+912,37,14,Bachelor,Senior,60,Mashhad,71933.0
+913,38,14,PhD,Mid,44,Tehran,71679.0
+914,32,8,Bachelor,Junior,49,Tehran,54255.0
+915,46,25,High School,Mid,55,Isfahan,68619.0
+916,33,7,High School,Senior,32,Karaj,47651.0
+917,53,26,Bachelor,Mid,46,Qom,75190.0
+918,48,22,Master,Senior,57,Isfahan,82637.0
+919,45,17,Master,Junior,39,Karaj,50919.0
+920,28,4,Bachelor,Senior,40,Tehran,49950.0
+921,26,0,High School,Mid,56,Shiraz,38945.0
+922,39,14,High School,Junior,36,Shiraz,40886.0
+923,43,23,High School,Junior,57,Isfahan,62637.0
+924,47,20,Bachelor,Senior,41,Shiraz,70755.0
+925,57,35,Bachelor,Junior,32,Karaj,86564.0
+926,43,17,Bachelor,Mid,49,Shiraz,67977.0
+927,47,23,Bachelor,Lead,35,Tehran,91060.0
+928,56,35,Master,Junior,34,Qom,89709.0
+929,30,6,High School,Junior,60,Isfahan,43920.0
+930,25,4,PhD,Junior,43,Tabriz,49888.0
+931,54,26,Bachelor,Mid,37,Karaj,79010.0
+932,47,20,Bachelor,Junior,46,Rasht,61022.0
+933,43,20,Bachelor,Senior,52,Rasht,78555.0
+934,57,35,High School,Mid,35,Mashhad,91291.0
+935,41,17,High School,Senior,56,Rasht,68252.0
+936,21,0,Master,Mid,44,Tehran,50622.0
+937,48,22,Master,Senior,38,Shiraz,75840.0
+938,57,35,Bachelor,Junior,59,Mashhad,96009.0
+939,55,34,Bachelor,Junior,42,Tabriz,89328.0
+940,49,29,Master,Junior,48,Rasht,77439.0
+941,32,9,Bachelor,Mid,38,Rasht,45440.0
+942,50,23,PhD,Senior,56,Isfahan,87195.0
+943,46,18,Bachelor,Junior,34,Karaj,57850.0
+944,51,27,High School,Junior,39,Rasht,63500.0
+945,56,35,Bachelor,Senior,31,Rasht,104692.0
+946,42,19,Bachelor,Senior,35,Karaj,69552.0
+947,51,25,Bachelor,Senior,46,Tabriz,87287.0
+948,51,24,PhD,Mid,55,Mashhad,80081.0
+949,50,23,Master,Senior,56,Qom,85977.0
+950,41,18,Bachelor,Junior,44,Shiraz,46881.0
+951,38,16,Bachelor,Mid,37,Shiraz,52555.0
+952,41,18,Bachelor,Senior,58,Mashhad,72850.0
+953,43,23,Master,Mid,32,Isfahan,80656.0
+954,30,3,Bachelor,Junior,35,Tehran,29071.0
+955,44,18,Bachelor,Lead,40,Tehran,80322.0
+956,27,6,High School,Junior,54,Mashhad,33281.0
+957,37,10,Bachelor,Mid,39,Qom,39173.0
+958,46,26,Bachelor,Senior,44,Mashhad,84449.0
+959,57,34,High School,Junior,50,Rasht,86865.0
+960,35,9,High School,Junior,40,Isfahan,34733.0
+961,33,5,Bachelor,Senior,47,Karaj,66945.0
+962,32,6,High School,Junior,59,Shiraz,32753.0
+963,20,0,Bachelor,Mid,45,Tabriz,30135.0
+964,27,4,High School,Junior,54,Tabriz,32261.0
+965,49,25,Bachelor,Junior,42,Shiraz,67939.0
+966,53,28,PhD,Mid,59,Rasht,91429.0
+967,25,2,Master,Junior,39,Tabriz,27869.0
+968,20,0,Master,Senior,50,Karaj,45639.0
+969,52,31,Bachelor,Mid,30,Mashhad,90324.0
+970,29,1,High School,Mid,41,Tabriz,32616.0
+971,60,35,Bachelor,Mid,33,Isfahan,100867.0
+972,51,31,Bachelor,Mid,50,Qom,90119.0
+973,57,35,Bachelor,Junior,31,Tehran,90707.0
+974,32,8,Master,Junior,46,Shiraz,41085.0
+975,46,25,High School,Junior,57,Tehran,78000.0
+976,34,12,Master,Mid,32,Tehran,55603.0
+977,59,35,PhD,Junior,50,Qom,94208.0
+978,46,22,Master,Mid,52,Karaj,70332.0
+979,47,26,Bachelor,Mid,40,Rasht,69668.0
+980,31,6,Bachelor,Mid,45,Isfahan,42526.0
+981,50,24,Bachelor,Junior,32,Tabriz,64788.0
+982,57,34,Master,Mid,49,Karaj,100120.0
+983,42,20,Master,Senior,50,Tehran,85756.0
+984,53,32,High School,Senior,55,Shiraz,96659.0
+985,53,30,High School,Junior,43,Tabriz,68693.0
+986,31,9,Bachelor,Senior,43,Shiraz,56101.0
+987,44,22,Bachelor,Mid,38,Mashhad,70620.0
+988,40,17,Bachelor,Mid,45,Karaj,52516.0
+989,54,26,High School,Mid,50,Tehran,68005.0
+990,34,14,Master,Junior,43,Qom,53216.0
+991,50,25,High School,Mid,36,Isfahan,69046.0
+992,29,2,High School,Junior,51,Karaj,31875.0
+993,49,22,Master,Junior,33,Tabriz,58821.0
+994,47,24,Master,Junior,44,Tehran,73290.0
+995,59,35,Master,Senior,37,Tehran,119444.0
+996,38,13,Bachelor,Mid,37,Rasht,49807.0
+997,53,27,High School,Junior,30,Isfahan,69721.0
+998,50,27,Bachelor,Junior,37,Tehran,74045.0
+999,24,1,High School,Lead,32,Isfahan,49698.0
+1000,51,26,Bachelor,Senior,51,Tehran,88342.0
