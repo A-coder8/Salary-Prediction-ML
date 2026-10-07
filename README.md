@@ -60,20 +60,6 @@ Enter City: Tabriz
 Model answer: ...
 ```
 
-## 📚 What I Learned
-
-During this project I practiced:
-
-- Regression
-- Train/Test Split
-- R² Score
-- Categorical Data Encoding
-- `pd.get_dummies()`
-- Feature matching between training and new data
-- `fit_transform()` vs `transform()`
-- Polynomial Features
-- Making predictions with manually entered data
-
 ## ⚠️ Note
 
 This dataset is synthetic and was created for Machine Learning practice. The salary values are not real-world salary statistics.
