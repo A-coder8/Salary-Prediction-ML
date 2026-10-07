@@ -1,6 +1,6 @@
 # Salary Prediction 💰🤖
 
-**Language:** [🇮🇷 فارسی](README.fa.md) | [🇨🇳 中文](README.zh.md)
+**Language:** [🇮🇷 فارسی](README.fa.md)
 
 A Machine Learning regression project that predicts an employee's salary based on personal and job-related features.
 
