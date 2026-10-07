@@ -1,6 +1,6 @@
 # 使用机器学习进行薪资预测 💰🤖
 
-[🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md)
+**Language:** [🇬🇧 English](README.md) | [🇮🇷 فارسی](README.fa.md)
 
 这是一个使用机器学习根据员工的个人信息和工作相关特征预测薪资的回归项目。
 
