@@ -43,16 +43,6 @@ city
 salary
 ```
 
-## 📈 Result
-
-The model achieved an R² score of approximately:
-
-```text
-0.915
-```
-
-This means the model explains about 91.5% of the variation in the test-set salaries.
-
 ## 🔮 Manual Prediction
 
 The project also allows entering employee information manually and predicting the expected salary.
