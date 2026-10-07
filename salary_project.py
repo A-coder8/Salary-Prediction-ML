@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 
 # read data
-df = pd.read_csv("~/myproject/Model/salary/salary_data_1000.csv")
+df = pd.read_csv("salary_data_1000.csv")
 # fill nan to None
 df = df.fillna("None")
 
